@@ -1,6 +1,8 @@
 # AVG-Robot
 ROS package for the avg robot 
-
+-------
+push "avg_robot" into "workspace/src/"
+-------
 --------------------------------------------------
 #Subscriber
 
